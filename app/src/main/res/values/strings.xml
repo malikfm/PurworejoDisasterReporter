@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Purworejo Disaster Reporter</string>
+    <string name="lokasi_saya">Lokasi Saya</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="tentang">Tentang</string>
+
+    <string name="foto">Foto</string>
+    <string name="nama">Bencana</string>
+    <string-array name="list_bencana">
+        <item>Angin Ribut</item>
+        <item>Banjir</item>
+        <item>Gelombang Pasang</item>
+        <item>Kebakaran</item>
+        <item>Kekeringan</item>
+        <item>Tanah Longsor</item>
+        <item>Lain-Lain</item>
+    </string-array>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="level">Level Bencana</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="sedang">Sedang</string>
+    <string name="rendah">Rendah</string>
+    <string name="lokasi">Koordinat Lokasi</string>
+    <string name="ambil_foto">Ambil Foto</string>
+    <string name="hapus">Hapus</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="kirim">Kirim</string>
+    <string name="descThumbnail">Foto Bencana</string>
+    <string name="nomor">Nomor Pelapor</string>
+    <string name="logo">Logo Aplikasi</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+
+    <string name="title_activity_lokasi_saya">Lokasi Saya</string>
+    <string name="title_activity_riwayat_map">Map</string>
+    <string name="title_activity_laporan_map">Map</string>
+
+    <string name="keterangan">Keterangan</string>
+    <string name="judul_bantuan">Pilih bantuan:</string>
+    <string name="list_bantuan">List Bantuan</string>
+</resources>
